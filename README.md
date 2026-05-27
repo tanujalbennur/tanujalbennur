@@ -1,6 +1,6 @@
 # 💫 About Me:
-Java Developer Fresher
-Learning Sring Boot, DSA & Generative AI
+Java Developer Fresher\n
+Learning Sring Boot, DSA & Generative AI,
 Interested in Java Full Stack Development
 
 ## 🌐 Socials:
