@@ -1,6 +1,7 @@
 # 💫 About Me:
 Java Developer Fresher
-
+Learning Sring Boot, DSA & Generative AI
+Interested in Java Full Stack Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanujalbennur6672) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tanuja Bennur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanujabennur6672@gmail.com) 
